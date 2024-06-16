@@ -1,59 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-    <!-- Add your CSS styles here for formatting -->
-    <style>
-        /* Add your CSS styles for formatting here */
-    </style>
-</head>
-<body>
-    <h1>VANESSA MAZA</h1>
-    <h3>BUSINESS INTELLIGENCE ANALYST</h3>
+<h1 align="center">I'm Vanessa Maza</h1>
+<h3 align="center">Business Intelligence Analyst👩‍💻</h3>
 
-    <p>+52 33 2343 6471</p>
-    <p><a href="mailto:VANEMMZA@GMAIL.COM">VANEMMZA@GMAIL.COM</a></p>
-    <p><a href="www.linkedin.com/in/vanessa-maza">linkedin.com/in/vanessa-maza</a></p>
+- 💬 Summary **I'm passionate about transforming data into actionable insights, currently pursuing a Bachelor's degree in Business Intelligence from the Monterrey Institute of Technology and Higher Education.**
 
-    <h2>SUMMARY</h2>
-    <p>Business Data Analytics graduate with 4 years of experience in data analysis and business intelligence. Proficient in SQL, Python, and R. Demonstrated leadership through student group initiatives and company roles at Aeroméxico, Cuarto de Kilo, and Prosociedad. Skilled in teamwork and problem-solving, with a strong focus on leveraging data for business impact.</p>
+**With a versatile background encompassing automation, data analysis, strategy, and marketing, I leverage my skills in Tableau, Excel, Python, R, and SQL to bring a well-rounded perspective to problem-solving.**
 
-    <h2>SKILLS</h2>
-    <h3>Technical</h3>
-    <ul>
-        <li>Programming Languages: Proficient in Tableau, Power BI, Python, SQL, and R.</li>
-        <li>Data Visualization Tools: Tableau, Power BI.</li>
-        <li>Data Management Tools: SQL Server,Excel (Macro).</li>
-        <li>Statistical Computing Environment: RStudio, SPSS, Minitab.</li>
-        <li>Collaborative Environment: Google Colab, Goggle Sheets, Google Docs, Microsoft Office.</li>
-    </ul>
+**I specialize in uncovering hidden opportunities and driving informed decision-making. My diverse experiences in small/medium companies include crafting automation processes, analyzing data for operations and product logistics, product development, content creation, managing small databases, project management and spearheading marketing initiatives.**
 
-    <h3>Leadership</h3>
-    <ul>
-        <li>Group Management: Created and led multiple student groups at university, focusing on [insert specific objectives, e.g., community engagement, academic excellence, etc.].</li>
-        <li>Strategic Planning: Devised yearly plans, set achievable goals, and monitored progress to ensure the groups' success.</li>
-        <li>Team Building: Successfully cultivated a team-oriented environment, fostering communication, and collaboration among group members.</li>
-    </ul>
+**I'm eager to pursue a career in business analysis, strategy, and market research, aiming to apply my data-driven approach and diverse skill set to create tangible impacts.**
 
-    <h3>Languages</h3>
-    <ul>
-        <li>English</li>
-        <li>Spanish</li>
+- 💻 Explore my projects at **[https://github.com/vanemaza](https://github.com/vanemaza)**
 
-    </ul>
+- 📊 Data Management and Visualization Tools **Tableau, Power BI, SQL Server, Excel (Macro).**
 
-    <h2>EDUCATION</h2>
-    <p>Bachelor of Business Intelligence</p>
-    <p>Tec de Monterrey</p>
+- 📫 E-mail **vanemmza@gmail.com**
 
-    <!-- Add image placeholders for logos with URLs -->
-    <h3>Technical Skills Logos</h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo">
-    <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL Logo">
-    <img src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" alt="R Logo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="Tableau Logo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI Logo">
-</body>
-</html>
+- 📄 CV and more Experiences **[https://www.linkedin.com/in/vanessa-maza](https://www.linkedin.com/in/vanessa-maza)**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vanessa-maza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanessa-maza" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+
