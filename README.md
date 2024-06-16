@@ -1,5 +1,8 @@
-<h1 align="center"> Vanessa Maza👋 </h1>
+<h1 align="center"> Hi👋, I'm Vanessa Maza </h1>
 <h3 align="center">Business Intelligence Analyst👩‍💻</h3>
+
+<p align= "center"> <img src="https://files.oaiusercontent.com/file-SnFb508x3eHhkQ2ocfDot3vA?se=2024-06-16T06%3A39%3A47Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6483f587-b75d-4084-83d5-cf1c034edc8d.webp&sig=nJbJCyJ8bt4ta9o5Cv6jfO4LKxEhV1c6G0C8LRuE9Ac%3D" alt="vanemaza" width="1800" height="400"/>
+  </a>
 
  💬 **I'm passionate about transforming data into actionable insights, I specialize in uncovering hidden opportunities and driving informed decision-making.**
 
