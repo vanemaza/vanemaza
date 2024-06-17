@@ -12,7 +12,7 @@ My diverse experiences in small/medium companies include crafting automation pro
 
 I'm eager to pursue a career in business analysis, strategy, and market research, aiming to apply my data-driven approach and diverse skill set to create tangible impacts.
 
-- 💻 Explore my projects at **[https://github.com/vanemaza](https://github.com/vanemaza)**
+- 💻 Explore my projects at **[https://vanemaza.github.io/](https://vanemaza.github.io/)**
 
 - 📫 E-mail **vanemmza@gmail.com**
 
