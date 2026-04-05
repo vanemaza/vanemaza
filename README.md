@@ -8,7 +8,7 @@
 
 With a versatile background encompassing automation, data analysis, strategy, and marketing, I leverage my skills in **Tableau, Excel, Python, R, and SQL** to bring a well-rounded perspective to problem-solving.
 
-My diverse experiences in small/medium companies include crafting automation processes, analyzing data for operations and product logistics, product development, content creation, managing small databases, project management and spearheading marketing initiatives.
+My diverse experiences in various sized companies companies include crafting automation processes, analyzing data for operations and product logistics, product development, content creation, managing small databases, project management and spearheading marketing initiatives.
 
 I'm eager to pursue a career in business analysis, strategy, and market research, aiming to apply my data-driven approach and diverse skill set to create tangible impacts.
 
